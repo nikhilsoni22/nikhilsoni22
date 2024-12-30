@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilsoni22
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning React-native
+- 🌱 I’m flutter developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me. LinkdIn - Nikhil_soniii
   
